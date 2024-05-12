@@ -5,7 +5,7 @@ export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const IS_WORKFLOW = `${process.env.NEXT_PUBLIC_APP_TYPE_WORKFLOW}` === 'true'
 export const APP_INFO: AppInfo = {
   title: 'DPASANAA APP',
-  description: 'กรอกรายการ อาหาร เครื่องดื่ม ขนม รวมถึงผักผลไม้ ได้เลยนะครับ ^^',
+  description: 'กรอกรายการ อาหาร เครื่องดื่ม ขนม รวมถึงผักผลไม้ ได้เลยนะครับ',
   copyright: '',
   privacy_policy: '',
   default_language: 'en-US',
