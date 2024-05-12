@@ -4,11 +4,11 @@ export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const IS_WORKFLOW = `${process.env.NEXT_PUBLIC_APP_TYPE_WORKFLOW}` === 'true'
 export const APP_INFO: AppInfo = {
-  title: 'DPASANAA',
+  title: 'DPASANAA APP',
+  description: 'กรอกรายการ อาหาร เครื่องดื่ม ขนม รวมถึงผักผลไม้ ได้เลยนะครับ ^^',
   copyright: '',
   privacy_policy: '',
   default_language: 'en-US',
-  description: 'LINE:@DPASANAA มีโปรค่าส่งไปรษณีย์ EMS 19 บ.',
 }
 
 export const API_PREFIX = '/api'
