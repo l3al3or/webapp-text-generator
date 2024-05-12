@@ -8,7 +8,7 @@ export const APP_INFO: AppInfo = {
   description: 'LINE:@DPASANAA มีโปรค่าส่ง 19 บ.',
   copyright: '',
   privacy_policy: '',
-  default_language: 'en-Us',
+  default_language: 'en-US',
 }
 
 export const API_PREFIX = '/api'
