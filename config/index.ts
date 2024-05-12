@@ -4,7 +4,7 @@ export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const IS_WORKFLOW = `${process.env.NEXT_PUBLIC_APP_TYPE_WORKFLOW}` === 'true'
 export const APP_INFO: AppInfo = {
-  title: '<img src="${importImage()}" width="300" height="300" alt="DPASANAA APP"/>',
+  title: 'DPASANAA APP<img src="${importImage()}"/>',
   description: 'หากมีข้อมูลส่วนไหนไม่ตรงรบกวนแจ้งมาที่ Line:@dpasanaa ได้เลยนะครับ',
   copyright: '',
   privacy_policy: '',
