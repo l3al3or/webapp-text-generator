@@ -459,7 +459,8 @@ const TextGeneration = () => {
             </div>
           )}
           <img class="size-full wp-image-1137 aligncenter" src="https://www.dpasanaa.net/wp-content/uploads/2023/10/%E0%B8%9C%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%94%E0%B8%B4%E0%B8%9A-%E0%B8%AD%E0%B8%AD%E0%B9%81%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%84-%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%94%E0%B8%B4%E0%B8%9A%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%9C%E0%B8%87-%E0%B8%9C%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%94%E0%B8%B4%E0%B8%9A%E0%B8%9A%E0%B8%94-%E0%B8%A2%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B9%84%E0%B8%AB%E0%B8%A5%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99.jpg" alt="" width="500" height="500" />
-          <a href="https://shop.line.me/@879pvhac/product/319489881" target="_blank" rel="noopener">สั่งผ่าน LINE (โปรค่าส่ง 19 บ.ไปรษณีย์กดเลย)</a>
+          <a href="https://shop.line.me/@879pvhac/product/319489881" target="_blank" rel="noopener">สั่งผ่าน LINE (โปรค่าส่ง 19 บ.ไปรษณีย์)&lt;--กดเลย</a>
+          <p>"หากมีโปรแพลทฟอร์มไหนก็สั่งแพลทฟอร์มนั้นได้เลยนะคร้าบ"</p>
           </div>
       </>
     </div>
