@@ -16,7 +16,7 @@ const translation = {
     queryPlaceholder: 'Write your query content...',
     run: 'Execute',
     copy: 'Copy',
-    title: 'AI Completion',
+    title: 'Dpasanaa',
     resultTitle: 'Dpasanaa',
     noData: 'AI will give you what you want here.',
     csvUploadTitle: 'Drag and drop your CSV file here, or ',
