@@ -17,7 +17,7 @@ const translation = {
     run: 'Execute',
     copy: 'Copy',
     title: 'AI Completion',
-    resultTitle: 'AI Completion',
+    resultTitle: 'Dpasanaa',
     noData: 'AI will give you what you want here.',
     csvUploadTitle: 'Drag and drop your CSV file here, or ',
     browse: 'browse',
